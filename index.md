@@ -2,7 +2,7 @@ Welcome to the menu
 *   [Happy Birthday](https://tanziran.github.io/happy-birthday)
 
 相关主页
-*   [Blog](https://tanziran.github.io/)
+*   [Blog](https://tanziran.github.io)
 
 Tool
 *   [Removal-Control](https://tanziran.lanzoue.com/iGnjy1elhiqd)
