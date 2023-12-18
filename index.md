@@ -8,10 +8,10 @@ Tool
 *   [Removal-Control](https://tanziran.lanzoue.com/iGnjy1elhiqd)
 *   [LuckyDraw](https://tanziran.github.io/LuckyDraw)
 *   [LuckyDraw-shatin](https://tanziran.github.io/LuckyDraw-shatin/)
-*   [SFZ](https://tanziran.github.io/SFZ/index_en-us.html)
+*   [SFZ](https://tanziran.github.io/Menu/SFZ/index_en-us.html)
 
 Game
-*   [Jumpscare](https://tanziran.github.io/Jumpscare/index_en-us.html)
+*   [Jumpscare](https://tanziran.github.io/Menu/Jumpscare/index_en-us.html)
 *   [Killer-Jeff-for-html](https://tanziran.github.io/Killer-Jeff-for-html/)
 *   [Hearts-Card](https://tanziran.github.io/html5-hearts/)
 *   [EatKano](https://tanziran.github.io/EatKano/)
