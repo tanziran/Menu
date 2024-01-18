@@ -9,6 +9,7 @@ Tool
 *   [LuckyDraw](https://tanziran.github.io/LuckyDraw)
 *   [LuckyDraw-shatin](https://tanziran.github.io/LuckyDraw-shatin/)
 *   [SFZ](https://tanziran.github.io/Menu/SFZ/index_en-us.html)
+*   [Virtual-China-ID-Card](https://tanziran.github.io/Virtual-China-ID-Card/)
 
 Game
 *   [Jumpscare](https://tanziran.github.io/Menu/Jumpscare/index_en-us.html)
